@@ -21,19 +21,24 @@ g++ mini.cpp -o mini
 
 This app is very lightweight, i add new feature as my knowledge increases. So this is the feature of this lightweight terminal text editor.
 
-- Display cursor
-- Display message version
-- Read text
-- Move arrow top, left, right and bottom
-- Move to end row and start row using PageEnd and PageHome
-- Move to up row and bottom row using PageUp and PageDown
-- Close editor using `ctl + x`
-- Vertical Scrolling
+- Display cursor.
+- Display message version.
+- Read text from file.
+- Move arrow top, left, right and bottom.
+- Move to end row and start row using `PageEnd` and `PageHome`.
+- Move to up and bottom row using PageUp and PageDown.
+- Close editor using `ctl + x`.
+- Vertical Scrolling.
+- Horizontal Scrolling.
+- Configurable tab rendering.
+- Scrolling with `PageUp` and `PageDown`.
+- Status Bar in Bottom and display help message.
+- Edit and save a file.
+- Create a new file.
 
 ## TODO
 
 I have so much idea base on my preferences, but for now this project just started i will adding some basic feature.
 
-- Horizontal Scrolling
 - Edit text
 - Highlihgt
