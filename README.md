@@ -28,10 +28,12 @@ This app is very lightweight, i add new feature as my knowledge increases. So th
 - Move to end row and start row using PageEnd and PageHome
 - Move to up row and bottom row using PageUp and PageDown
 - Close editor using `ctl + x`
+- Vertical Scrolling
 
 ## TODO
 
 I have so much idea base on my preferences, but for now this project just started i will adding some basic feature.
 
+- Horizontal Scrolling
 - Edit text
 - Highlihgt
