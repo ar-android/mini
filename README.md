@@ -1,8 +1,8 @@
 # Mini Text Editor
 
-I alway work with terminal, i love vim and nano, so i want to have my own terminal text editor that combine feature of vim and nano.
+I always work with terminal, i love vim and nano text editor. And i want to have my own terminal text editor that combine feature of vim and nano.
 
-Then this project i create as my learning material of programming with cpp.
+So this project i create as my learning material of programming with cpp.
 
 ## Compile
 
