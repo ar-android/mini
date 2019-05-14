@@ -4,7 +4,7 @@ I alway work with terminal, i love vim and nano, so i want to have my own termin
 
 Then this project i create as my learning material of programming with cpp.
 
-## Install
+## Compile
 
 This is just my experimental, but if you want to custom it follow this step.
 
