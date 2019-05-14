@@ -1,5 +1,3 @@
-// #include <iostream>
-
 #define _DEFAULT_SOURCE
 #define _BSD_SOURCE
 #define _GNU_SOURCE
@@ -13,7 +11,6 @@
 #include <termios.h>
 #include <sys/ioctl.h>
 #include <sys/types.h>
-
 
 /*** Defines ***/
 #define CTRL_KEY(k) ((k) & 0x1f)
