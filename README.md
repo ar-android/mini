@@ -24,7 +24,7 @@ g++ mini.cpp -o mini
 This app is very lightweight, i add new feature as my knowledge increases. So this is the feature of this lightweight terminal text editor.
 
 - Display cursor
-- Display mesasge version
+- Display message version
 - Read text
 - Move arrow top, left, right and bottom
 - Move to end row and start row using PageEnd and PageHome
