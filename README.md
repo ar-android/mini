@@ -17,6 +17,14 @@ g++ mini.cpp -o mini
 ./mini
 ```
 
+## Install
+
+```
+cp mini /usr/local/bin/
+```
+
+Now you can run `mini` any where in your terminal.
+
 ## Feature
 
 This app is very lightweight, i add new feature as my knowledge increases. So this is the feature of this lightweight terminal text editor.
@@ -40,5 +48,5 @@ This app is very lightweight, i add new feature as my knowledge increases. So th
 
 I have so much idea base on my preferences, but for now this project just started i will adding some basic feature.
 
-- Edit text
+- Incremental Search [https://viewsourcecode.org/snaptoken/kilo/06.search.html](Next)
 - Highlihgt
